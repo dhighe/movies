@@ -23,5 +23,6 @@ const apiMoviesRouter = require('./routes/api/movies');
 app.use('/api/movies', apiMoviesRouter);
 
 app.listen(PORT, () => {
-  console.log('connected babybabybabyuuuuughhh...!');
+  // Justin Beiber Rafa?
+  console.log('Thanks Jaemin!!!!');
 });
